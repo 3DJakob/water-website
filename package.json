@@ -1,0 +1,9 @@
+{
+  "name": "water-website",
+  "version": "0.0.1",
+  "description": "Water website",
+  "dependencies": {
+    "ejs": "^2.0.8",
+    "express": "^4.10.2"
+  }
+}
